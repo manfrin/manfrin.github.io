@@ -1,0 +1,12 @@
+# Site settings
+title: Mike Manfrin
+email: manfrin@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Mike Manfrin is a software developer living in Oakland
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://manfrin.org" # the base hostname & protocol for your site
+twitter_username: manfrin
+github_username:  manfrin
+
+# Build settings
+markdown: kramdown
