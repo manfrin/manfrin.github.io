@@ -1,4 +1,0 @@
-manfrin.github.io
-=================
-
-Blog
