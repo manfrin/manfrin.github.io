@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I am a Software Developer living in Oakland, working in the City, and originally coming from Orinda. I have a Politics degree (Magna cum Laude) with a minor in Legal Studies from USF. 
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+I primarly work in Ruby and Javascript, but am learning Go, Java, and Objective-C. 
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+I can be reached at my last name [@] gmail.
